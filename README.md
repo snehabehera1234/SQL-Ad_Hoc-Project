@@ -23,6 +23,7 @@ The goal of this project was
 - MIN, MAX, AVG, SUM – basic aggregations
 - GROUP BY – group records for summary
 - DENSE_RANK() – rank rows without skipping values
+- CTE (Common Table Expressions) – break complex queries into readable, manageable steps
 
 ##  Conclusion 
  This project helped me get better at writing SQL, understanding business data, and turning insights into clear visuals. It’s a step forward in my journey as a data analyst, and I’m looking forward to applying these skills in upcoming work.
